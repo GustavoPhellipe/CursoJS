@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(5, 197, 223);
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+header > h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.4em;
+    color: white;
+}
+
+section {
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#itxt {
+    margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#botão {
+    display: block;
+    margin-top: -21px ;
+    margin-left: 18em;
+    padding: 3px;
+}
